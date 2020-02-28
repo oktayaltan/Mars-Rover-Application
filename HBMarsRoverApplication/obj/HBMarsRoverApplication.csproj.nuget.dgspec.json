@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {}
+    "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {
+    "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj",
+        "projectUniqueName": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj",
         "projectName": "HBMarsRoverApplication",
-        "projectPath": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj",
+        "projectPath": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj",
         "packagesPath": "C:\\Users\\oaltan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\obj\\",
+        "outputPath": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

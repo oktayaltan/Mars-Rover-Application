@@ -6847,11 +6847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\TestHBMarsRoverApplication\\TestHBMarsRoverApplication.csproj",
+      "projectUniqueName": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\TestHBMarsRoverApplication\\TestHBMarsRoverApplication.csproj",
       "projectName": "TestHBMarsRoverApplication",
-      "projectPath": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\TestHBMarsRoverApplication\\TestHBMarsRoverApplication.csproj",
+      "projectPath": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\TestHBMarsRoverApplication\\TestHBMarsRoverApplication.csproj",
       "packagesPath": "C:\\Users\\oaltan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\TestHBMarsRoverApplication\\obj\\",
+      "outputPath": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\TestHBMarsRoverApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6870,8 +6870,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {
-              "projectPath": "C:\\Users\\oaltan\\Source\\repos\\HBMarsRoverApplication\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj"
+            "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj": {
+              "projectPath": "C:\\Users\\oaltan\\Source\\repos\\Mars-Rover-Application\\HBMarsRoverApplication\\HBMarsRoverApplication.csproj"
             }
           }
         }
