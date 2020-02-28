@@ -9,3 +9,14 @@ C:\Users\oaltan\Source\repos\HBMarsRoverApplication\HBMarsRoverApplication\obj\D
 C:\Users\oaltan\Source\repos\HBMarsRoverApplication\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.AssemblyInfo.cs
 C:\Users\oaltan\Source\repos\HBMarsRoverApplication\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.dll
 C:\Users\oaltan\Source\repos\HBMarsRoverApplication\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.pdb
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.exe
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.deps.json
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.runtimeconfig.json
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.runtimeconfig.dev.json
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.dll
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\bin\Debug\netcoreapp3.0\HBMarsRoverApplication.pdb
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.csprojAssemblyReference.cache
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.AssemblyInfoInputs.cache
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.AssemblyInfo.cs
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.dll
+C:\Users\oaltan\Source\repos\Mars-Rover-Application\HBMarsRoverApplication\obj\Debug\netcoreapp3.0\HBMarsRoverApplication.pdb

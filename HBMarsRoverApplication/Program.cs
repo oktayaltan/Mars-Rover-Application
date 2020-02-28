@@ -11,9 +11,7 @@ namespace HBMarsRoverApplication
                                      1 2 N
                                      LMLMLMLMM
                                      3 3 E
-                                     MMRMMRMRRM
-                                     1 2 W
-                                     RL").Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries).Select(x => x.Trim()).ToArray();
+                                     MMRMMRMRRM").Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries).Select(x => x.Trim()).ToArray();
             var maxPoints = input[0].Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(i => int.Parse(i)).ToList();
             var result = new System.Text.StringBuilder();
             for (int i = 1; i < input.Length; i += 2)
@@ -39,7 +37,7 @@ namespace HBMarsRoverApplication
                     Console.WriteLine(ex.Message);
                 }
             }
-            Console.WriteLine(result);
+            Console.Write(result);
             Console.ReadLine();
         }
     }
